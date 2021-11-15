@@ -3,7 +3,7 @@ console.log("welcome to the website");
 // Initialise the news parameters.
 let country = "in";
 let apiKey = '21d9ca460e1d47189e44b898c874e6fd';
-// Greab a news container
+// Grab a news container
 let newsAccordion = document.getElementById("newsAccordion");
 // Create an AJAX GET request
 const xhr = new XMLHttpRequest();
